@@ -13,7 +13,6 @@ The application's UI has been designed to be simple, engaging and intuitive, pro
 
 1. **React.js**: The project is structured around the React.js library, allowing for highly dynamic, interactive UI with smooth state handling and life-cycle methods.
 2. **Tailwind CSS**: For styling our components, we use Tailwind CSS, a highly customizable, low-level CSS framework that gives us the ability to style our application in a more efficient, scalable way.
-3. **CSS**: Traditional CSS is used where required, ensuring a well-rounded, comprehensive styling approach.
 
 ## Features
 
